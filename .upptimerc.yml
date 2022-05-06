@@ -7,16 +7,20 @@ sites:
   #  url: https://iam.absor.top
   - name: Caja Registradora (App)
     url: https://caja.absor.top
+    icon: https://caja.absor.top/media/common/logo/logo.png
   - name: API HTML TO PDF
     url: https://htmltopdf.absor.top
+    icon: https://htmltopdf.absor.top/media/common/logo/logo.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.absor.top
+  theme: dark
   # baseUrl: /your-repo-name
   logoUrl: https://eu2.contabostorage.com/68e1ac55689b4b99a9a2ccd407d95b2a:branding-absor/logos/logo_transparent.png
-  name: Absor Status
+  favicon: https://eu2.contabostorage.com/68e1ac55689b4b99a9a2ccd407d95b2a:branding-absor/logos/logo_transparent.png
+  name: Status Page
   introTitle: "Check if Absor's services are online right now!"
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
