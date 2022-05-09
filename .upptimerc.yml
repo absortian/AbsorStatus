@@ -20,7 +20,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://eu2.contabostorage.com/68e1ac55689b4b99a9a2ccd407d95b2a:branding-absor/logos/logo_white.jpeg
   favicon: https://eu2.contabostorage.com/68e1ac55689b4b99a9a2ccd407d95b2a:branding-absor/logos/logo_white.jpeg
-  name: Status Page
+  name: Absor Status
   introTitle: "Check if Absor's services are online right now!"
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
