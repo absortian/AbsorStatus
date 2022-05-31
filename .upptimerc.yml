@@ -13,6 +13,7 @@ sites:
     icon: https://htmltopdf.absor.top/media/common/logo/logo.png
   - name: La Mina (Chollos)
     url: https://chollos.absor.top/
+    icon: blob:https://web.telegram.org/a85129b5-b2ed-4e77-8308-561a80db18b2
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
