@@ -22,18 +22,20 @@
     "url": "https://htmltopdf.absor.top",
     "icon": "https://htmltopdf.absor.top/media/common/logo/logo.png",
     "slug": "api-html-to-pdf",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 772,
-    "timeDay": 676,
-    "timeWeek": 792,
-    "timeMonth": 772,
-    "timeYear": 772,
-    "dailyMinutesDown": {}
+    "time": 774,
+    "timeDay": 714,
+    "timeWeek": 798,
+    "timeMonth": 774,
+    "timeYear": 774,
+    "dailyMinutesDown": {
+      "2022-05-31": 0
+    }
   },
   {
     "name": "La Mina (Chollos)",
