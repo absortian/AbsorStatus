@@ -50,7 +50,7 @@
     "url": "https://chollos.absor.top/",
     "icon": "https://eu2.contabostorage.com/68e1ac55689b4b99a9a2ccd407d95b2a:branding-absor/logos/mina/mina_logo.jpg",
     "slug": "la-mina-chollos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -62,6 +62,7 @@
     "timeMonth": 1294,
     "timeYear": 958,
     "dailyMinutesDown": {
+      "2022-09-12": 0,
       "2022-07-01": 40,
       "2022-06-30": 107,
       "2022-06-21": 59
