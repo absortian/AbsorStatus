@@ -11,9 +11,9 @@ sites:
   - name: API HTML TO PDF
     url: https://htmltopdf.absor.top
     icon: https://htmltopdf.absor.top/media/common/logo/logo.png
-  - name: La Mina (Chollos)
-    url: https://chollos.absor.top/
-    icon: https://eu2.contabostorage.com/68e1ac55689b4b99a9a2ccd407d95b2a:branding-absor/logos/mina/mina_logo.jpg
+  #- name: La Mina (Chollos)
+  #  url: https://chollos.absor.top/
+  #  icon: https://eu2.contabostorage.com/68e1ac55689b4b99a9a2ccd407d95b2a:branding-absor/logos/mina/mina_logo.jpg
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
