@@ -12,7 +12,7 @@ sites:
     url: https://htmltopdf.absor.top
     icon: https://htmltopdf.absor.top/media/common/logo/logo.png
   - name: Deploy (Jenkins)
-    url: https://deploy.absor.top
+    url: https://deploy.absor.top/login?from=%2F
     icon: https://deploy.absor.top/static/3cd36ed7/favicon.ico
   #- name: La Mina (Chollos)
   #  url: https://chollos.absor.top/
