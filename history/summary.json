@@ -51,18 +51,16 @@
     "icon": "https://deploy.absor.top/static/3cd36ed7/favicon.ico",
     "slug": "deploy-jenkins",
     "status": "up",
-    "uptime": "4.10%",
-    "uptimeDay": "4.10%",
-    "uptimeWeek": "4.10%",
-    "uptimeMonth": "4.10%",
-    "uptimeYear": "4.10%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 778,
     "timeDay": 778,
     "timeWeek": 778,
     "timeMonth": 778,
     "timeYear": 778,
-    "dailyMinutesDown": {
-      "2022-10-07": 3
-    }
+    "dailyMinutesDown": {}
   }
 ]
