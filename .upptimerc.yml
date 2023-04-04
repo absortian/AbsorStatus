@@ -7,10 +7,10 @@ sites:
   #  url: https://iam.absor.top
   - name: AbsorFlix
     url: https://player.absor.top
-    icon: https://eu2.contabostorage.com/68e1ac55689b4b99a9a2ccd407d95b2a:branding-absor/logos/logo_transparent_little.png
+    icon: https://eu2.contabostorage.com/68e1ac55689b4b99a9a2ccd407d95b2a:branding-absor/logos/logo_transparent_little_white.png
   - name: AbsorTV
     url: https://tv.absor.top/health-check
-    icon: https://eu2.contabostorage.com/68e1ac55689b4b99a9a2ccd407d95b2a:branding-absor/logos/logo_transparent_little.png
+    icon: https://eu2.contabostorage.com/68e1ac55689b4b99a9a2ccd407d95b2a:branding-absor/logos/logo_transparent_little_white.png
   - name: Caja Registradora (App)
     url: https://caja.absor.top
     icon: https://caja.absor.top/media/common/logo/logo.png
