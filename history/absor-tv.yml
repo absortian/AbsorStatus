@@ -1,7 +1,7 @@
 url: https://tv.absor.top/health-check
-status: up
-code: 200
-responseTime: 1005
-lastUpdated: 2023-09-15T03:26:05.597Z
+status: down
+code: 503
+responseTime: 676
+lastUpdated: 2023-09-15T09:40:20.655Z
 startTime: 2023-04-04T21:50:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
