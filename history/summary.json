@@ -4,7 +4,7 @@
     "url": "https://player.absor.top",
     "icon": "https://eu2.contabostorage.com/68e1ac55689b4b99a9a2ccd407d95b2a:branding-absor/logos/logo_transparent_little_white.png",
     "slug": "absor-flix",
-    "status": "up",
+    "status": "down",
     "uptime": "97.59%",
     "uptimeDay": "89.36%",
     "uptimeWeek": "98.48%",
@@ -16,6 +16,7 @@
     "timeMonth": 713,
     "timeYear": 884,
     "dailyMinutesDown": {
+      "2024-06-01": 0,
       "2024-05-31": 153,
       "2024-05-14": 796,
       "2024-05-13": 1440,
