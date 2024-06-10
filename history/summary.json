@@ -5,15 +5,15 @@
     "icon": "https://eu2.contabostorage.com/68e1ac55689b4b99a9a2ccd407d95b2a:branding-absor/logos/logo_transparent_little_white.png",
     "slug": "absor-flix",
     "status": "up",
-    "uptime": "97.33%",
+    "uptime": "97.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "85.29%",
     "uptimeYear": "96.96%",
     "time": 878,
-    "timeDay": 595,
-    "timeWeek": 657,
-    "timeMonth": 685,
+    "timeDay": 585,
+    "timeWeek": 626,
+    "timeMonth": 674,
     "timeYear": 881,
     "dailyMinutesDown": {
       "2024-06-02": 533,
@@ -53,8 +53,7 @@
       "2023-07-07": 38,
       "2023-06-28": 39,
       "2023-06-20": 26,
-      "2023-06-16": 22,
-      "2023-06-11": 46
+      "2023-06-16": 22
     }
   },
   {
@@ -69,10 +68,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 959,
-    "timeDay": 739,
-    "timeWeek": 786,
-    "timeMonth": 924,
-    "timeYear": 921,
+    "timeDay": 667,
+    "timeWeek": 776,
+    "timeMonth": 920,
+    "timeYear": 920,
     "dailyMinutesDown": {
       "2023-11-19": 103,
       "2023-11-08": 30,
@@ -93,8 +92,7 @@
       "2023-07-23": 59,
       "2023-07-21": 21,
       "2023-07-13": 22,
-      "2023-07-07": 22,
-      "2023-06-11": 23
+      "2023-07-07": 22
     }
   },
   {
@@ -108,9 +106,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 803,
-    "timeDay": 555,
-    "timeWeek": 603,
+    "time": 802,
+    "timeDay": 620,
+    "timeWeek": 612,
     "timeMonth": 756,
     "timeYear": 745,
     "dailyMinutesDown": {
@@ -118,8 +116,7 @@
       "2023-11-08": 30,
       "2023-11-07": 27,
       "2023-11-06": 33,
-      "2023-07-27": 214,
-      "2023-06-11": 23
+      "2023-07-27": 214
     }
   },
   {
@@ -128,25 +125,25 @@
     "icon": "https://htmltopdf.absor.top/media/common/logo/logo.png",
     "slug": "api-html-to-pdf",
     "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
-    "time": 798,
-    "timeDay": 592,
-    "timeWeek": 652,
-    "timeMonth": 691,
-    "timeYear": 744,
+    "uptime": "99.67%",
+    "uptimeDay": "42.41%",
+    "uptimeWeek": "91.77%",
+    "uptimeMonth": "98.11%",
+    "uptimeYear": "99.74%",
+    "time": 797,
+    "timeDay": 547,
+    "timeWeek": 640,
+    "timeMonth": 687,
+    "timeYear": 743,
     "dailyMinutesDown": {
-      "2024-06-09": 0,
+      "2024-06-10": 46,
+      "2024-06-09": 784,
       "2023-11-19": 120,
       "2023-11-10": 55,
       "2023-11-08": 30,
       "2023-11-07": 27,
       "2023-07-27": 214,
-      "2023-07-07": 73,
-      "2023-06-11": 23
+      "2023-07-07": 73
     }
   },
   {
@@ -155,14 +152,14 @@
     "icon": "https://deploy.absor.top/static/3cd36ed7/favicon.ico",
     "slug": "deploy-jenkins",
     "status": "up",
-    "uptime": "99.04%",
+    "uptime": "99.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
     "time": 756,
-    "timeDay": 1778,
-    "timeWeek": 1000,
+    "timeDay": 674,
+    "timeWeek": 1004,
     "timeMonth": 1230,
     "timeYear": 786,
     "dailyMinutesDown": {
@@ -170,8 +167,7 @@
       "2023-10-11": 27,
       "2023-08-22": 16,
       "2023-08-18": 23,
-      "2023-07-12": 37,
-      "2023-06-11": 22
+      "2023-07-12": 37
     }
   }
 ]
