@@ -5,16 +5,16 @@
     "icon": "https://eu2.contabostorage.com/68e1ac55689b4b99a9a2ccd407d95b2a:branding-absor/logos/logo_transparent_little_white.png",
     "slug": "absor-flix",
     "status": "up",
-    "uptime": "97.29%",
+    "uptime": "97.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.46%",
-    "time": 871,
-    "timeDay": 621,
-    "timeWeek": 673,
+    "time": 870,
+    "timeDay": 670,
+    "timeWeek": 665,
     "timeMonth": 870,
-    "timeYear": 826,
+    "timeYear": 823,
     "dailyMinutesDown": {
       "2024-06-15": 50,
       "2024-06-12": 623,
@@ -61,9 +61,9 @@
     "uptimeMonth": "98.14%",
     "uptimeYear": "99.64%",
     "time": 976,
-    "timeDay": 1667,
-    "timeWeek": 1316,
-    "timeMonth": 1374,
+    "timeDay": 1015,
+    "timeWeek": 1337,
+    "timeMonth": 1382,
     "timeYear": 936,
     "dailyMinutesDown": {
       "2024-07-10": 508,
@@ -82,8 +82,7 @@
       "2023-08-20": 18,
       "2023-08-19": 18,
       "2023-08-16": 23,
-      "2023-08-09": 20,
-      "2023-07-27": 214
+      "2023-08-09": 20
     }
   },
   {
@@ -98,9 +97,9 @@
     "uptimeMonth": "98.22%",
     "uptimeYear": "99.79%",
     "time": 867,
-    "timeDay": 740,
-    "timeWeek": 714,
-    "timeMonth": 1599,
+    "timeDay": 669,
+    "timeWeek": 660,
+    "timeMonth": 1608,
     "timeYear": 759,
     "dailyMinutesDown": {
       "2024-07-10": 496,
@@ -108,8 +107,7 @@
       "2023-11-19": 27,
       "2023-11-08": 30,
       "2023-11-07": 27,
-      "2023-11-06": 33,
-      "2023-07-27": 214
+      "2023-11-06": 33
     }
   },
   {
@@ -118,18 +116,19 @@
     "icon": "https://htmltopdf.absor.top/media/common/logo/logo.png",
     "slug": "api-html-to-pdf",
     "status": "down",
-    "uptime": "94.14%",
+    "uptime": "94.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "87.43%",
-    "time": 767,
-    "timeDay": 556,
-    "timeWeek": 520,
-    "timeMonth": 587,
-    "timeYear": 700,
+    "uptimeYear": "87.15%",
+    "time": 766,
+    "timeDay": 571,
+    "timeWeek": 509,
+    "timeMonth": 588,
+    "timeYear": 699,
     "dailyMinutesDown": {
-      "2024-07-25": 47,
+      "2024-07-26": 46,
+      "2024-07-25": 1440,
       "2024-07-24": 1440,
       "2024-07-23": 1440,
       "2024-07-22": 1440,
@@ -179,8 +178,7 @@
       "2023-11-19": 120,
       "2023-11-10": 55,
       "2023-11-08": 30,
-      "2023-11-07": 27,
-      "2023-07-27": 214
+      "2023-11-07": 27
     }
   },
   {
@@ -195,8 +193,8 @@
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.95%",
     "time": 958,
-    "timeDay": 620,
-    "timeWeek": 652,
+    "timeDay": 614,
+    "timeWeek": 645,
     "timeMonth": 3126,
     "timeYear": 1031,
     "dailyMinutesDown": {
