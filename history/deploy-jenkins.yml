@@ -1,7 +1,7 @@
 url: https://deploy.absor.top/login?from=%2F
-status: down
-code: 503
-responseTime: 26171
-lastUpdated: 2024-11-28T23:22:12.074Z
+status: up
+code: 200
+responseTime: 1065
+lastUpdated: 2024-11-29T09:12:40.458Z
 startTime: 2022-10-07T10:52:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
