@@ -11,9 +11,9 @@
     "uptimeMonth": "99.32%",
     "uptimeYear": "95.57%",
     "time": 742,
-    "timeDay": 920,
-    "timeWeek": 748,
-    "timeMonth": 1026,
+    "timeDay": 815,
+    "timeWeek": 771,
+    "timeMonth": 1025,
     "timeYear": 727,
     "dailyMinutesDown": {
       "2025-06-25": 198,
@@ -63,9 +63,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.53%",
     "time": 909,
-    "timeDay": 1088,
-    "timeWeek": 881,
-    "timeMonth": 825,
+    "timeDay": 783,
+    "timeWeek": 885,
+    "timeMonth": 823,
     "timeYear": 908,
     "dailyMinutesDown": {
       "2025-06-07": 643,
@@ -98,9 +98,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 753,
-    "timeDay": 811,
-    "timeWeek": 698,
-    "timeMonth": 767,
+    "timeDay": 663,
+    "timeWeek": 704,
+    "timeMonth": 769,
     "timeYear": 688,
     "dailyMinutesDown": {
       "2024-11-12": 19,
@@ -117,7 +117,7 @@
     "icon": "https://htmltopdf.absor.top/media/common/logo/logo.png",
     "slug": "api-html-to-pdf",
     "status": "down",
-    "uptime": "65.13%",
+    "uptime": "65.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -126,9 +126,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 601,
+    "timeYear": 602,
     "dailyMinutesDown": {
-      "2025-07-21": 73,
+      "2025-07-22": 69,
+      "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
       "2025-07-18": 1440,
@@ -491,8 +492,7 @@
       "2024-07-26": 1440,
       "2024-07-25": 1440,
       "2024-07-24": 1440,
-      "2024-07-23": 1440,
-      "2024-07-22": 1440
+      "2024-07-23": 1440
     }
   },
   {
@@ -507,9 +507,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.92%",
     "time": 1101,
-    "timeDay": 752,
-    "timeWeek": 650,
-    "timeMonth": 629,
+    "timeDay": 433,
+    "timeWeek": 617,
+    "timeMonth": 618,
     "timeYear": 922,
     "dailyMinutesDown": {
       "2025-03-04": 109,
