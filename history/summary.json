@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.81%",
-    "uptimeYear": "96.02%",
-    "time": 743,
-    "timeDay": 669,
-    "timeWeek": 759,
-    "timeMonth": 785,
+    "uptimeYear": "96.13%",
+    "time": 742,
+    "timeDay": 662,
+    "timeWeek": 731,
+    "timeMonth": 777,
     "timeYear": 732,
     "dailyMinutesDown": {
       "2025-08-08": 164,
@@ -44,8 +44,7 @@
       "2024-08-25": 1111,
       "2024-08-24": 1256,
       "2024-08-23": 1440,
-      "2024-08-22": 1440,
-      "2024-08-21": 1440
+      "2024-08-22": 1440
     }
   },
   {
@@ -56,14 +55,14 @@
     "status": "up",
     "uptime": "99.57%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.24%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.59%",
     "time": 909,
-    "timeDay": 684,
-    "timeWeek": 765,
-    "timeMonth": 802,
-    "timeYear": 867,
+    "timeDay": 710,
+    "timeWeek": 745,
+    "timeMonth": 791,
+    "timeYear": 866,
     "dailyMinutesDown": {
       "2025-08-13": 77,
       "2025-08-03": 16,
@@ -93,10 +92,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 754,
-    "timeDay": 617,
-    "timeWeek": 654,
-    "timeMonth": 688,
-    "timeYear": 679,
+    "timeDay": 633,
+    "timeWeek": 644,
+    "timeMonth": 682,
+    "timeYear": 678,
     "dailyMinutesDown": {
       "2024-11-12": 19,
       "2024-08-27": 32
@@ -108,7 +107,7 @@
     "icon": "https://htmltopdf.absor.top/media/common/logo/logo.png",
     "slug": "api-html-to-pdf",
     "status": "down",
-    "uptime": "63.50%",
+    "uptime": "63.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -117,9 +116,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 595,
+    "timeYear": 586,
     "dailyMinutesDown": {
-      "2025-08-20": 61,
+      "2025-08-21": 60,
+      "2025-08-20": 1440,
       "2025-08-19": 1440,
       "2025-08-18": 1440,
       "2025-08-17": 1440,
@@ -482,8 +482,7 @@
       "2024-08-25": 1440,
       "2024-08-24": 1440,
       "2024-08-23": 1440,
-      "2024-08-22": 1440,
-      "2024-08-21": 1440
+      "2024-08-22": 1440
     }
   },
   {
@@ -497,11 +496,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.99%",
-    "time": 1097,
-    "timeDay": 594,
-    "timeWeek": 632,
-    "timeMonth": 744,
-    "timeYear": 905,
+    "time": 1096,
+    "timeDay": 418,
+    "timeWeek": 568,
+    "timeMonth": 734,
+    "timeYear": 903,
     "dailyMinutesDown": {
       "2025-03-04": 109,
       "2025-01-27": 24,
