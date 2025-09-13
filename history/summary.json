@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.40%",
     "time": 743,
-    "timeDay": 756,
-    "timeWeek": 810,
-    "timeMonth": 773,
+    "timeDay": 817,
+    "timeWeek": 832,
+    "timeMonth": 778,
     "timeYear": 729,
     "dailyMinutesDown": {
       "2025-08-08": 164,
@@ -38,8 +38,7 @@
       "2024-10-15": 1440,
       "2024-10-14": 209,
       "2024-09-17": 154,
-      "2024-09-14": 988,
-      "2024-09-13": 190
+      "2024-09-14": 988
     }
   },
   {
@@ -54,9 +53,9 @@
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.75%",
     "time": 908,
-    "timeDay": 812,
-    "timeWeek": 806,
-    "timeMonth": 802,
+    "timeDay": 834,
+    "timeWeek": 822,
+    "timeMonth": 804,
     "timeYear": 799,
     "dailyMinutesDown": {
       "2025-08-28": 18,
@@ -86,10 +85,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 750,
-    "timeDay": 771,
-    "timeWeek": 691,
-    "timeMonth": 671,
-    "timeYear": 680,
+    "timeDay": 742,
+    "timeWeek": 711,
+    "timeMonth": 675,
+    "timeYear": 681,
     "dailyMinutesDown": {
       "2024-11-12": 19
     }
@@ -100,18 +99,19 @@
     "icon": "https://htmltopdf.absor.top/media/common/logo/logo.png",
     "slug": "api-html-to-pdf",
     "status": "down",
-    "uptime": "62.31%",
+    "uptime": "62.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 629,
+    "time": 628,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-12": 57,
+      "2025-09-13": 54,
+      "2025-09-12": 1440,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
@@ -474,8 +474,7 @@
       "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
-      "2024-09-14": 1440,
-      "2024-09-13": 1440
+      "2024-09-14": 1440
     }
   },
   {
@@ -490,10 +489,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.11%",
     "time": 1070,
-    "timeDay": 512,
-    "timeWeek": 556,
-    "timeMonth": 601,
-    "timeYear": 901,
+    "timeDay": 503,
+    "timeWeek": 539,
+    "timeMonth": 598,
+    "timeYear": 900,
     "dailyMinutesDown": {
       "2025-03-04": 109,
       "2025-01-27": 24,
