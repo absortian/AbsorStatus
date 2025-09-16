@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.62%",
     "time": 744,
-    "timeDay": 850,
-    "timeWeek": 803,
-    "timeMonth": 772,
-    "timeYear": 730,
+    "timeDay": 715,
+    "timeWeek": 776,
+    "timeMonth": 773,
+    "timeYear": 729,
     "dailyMinutesDown": {
       "2025-08-08": 164,
       "2025-08-01": 358,
@@ -52,9 +52,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.75%",
     "time": 908,
-    "timeDay": 858,
-    "timeWeek": 822,
-    "timeMonth": 802,
+    "timeDay": 951,
+    "timeWeek": 840,
+    "timeMonth": 809,
     "timeYear": 799,
     "dailyMinutesDown": {
       "2025-08-28": 18,
@@ -84,10 +84,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 750,
-    "timeDay": 523,
-    "timeWeek": 691,
-    "timeMonth": 668,
-    "timeYear": 681,
+    "timeDay": 432,
+    "timeWeek": 646,
+    "timeMonth": 662,
+    "timeYear": 680,
     "dailyMinutesDown": {
       "2024-11-12": 19
     }
@@ -98,7 +98,7 @@
     "icon": "https://htmltopdf.absor.top/media/common/logo/logo.png",
     "slug": "api-html-to-pdf",
     "status": "down",
-    "uptime": "62.16%",
+    "uptime": "62.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -109,7 +109,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-15": 62,
+      "2025-09-16": 58,
+      "2025-09-15": 1440,
       "2025-09-14": 1440,
       "2025-09-13": 1440,
       "2025-09-12": 1440,
@@ -472,8 +473,7 @@
       "2024-09-20": 1440,
       "2024-09-19": 1440,
       "2024-09-18": 1440,
-      "2024-09-17": 1440,
-      "2024-09-16": 1440
+      "2024-09-17": 1440
     }
   },
   {
@@ -487,11 +487,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.11%",
-    "time": 1069,
-    "timeDay": 518,
-    "timeWeek": 530,
-    "timeMonth": 589,
-    "timeYear": 901,
+    "time": 1063,
+    "timeDay": 617,
+    "timeWeek": 540,
+    "timeMonth": 590,
+    "timeYear": 900,
     "dailyMinutesDown": {
       "2025-03-04": 109,
       "2025-01-27": 24,
@@ -503,8 +503,7 @@
       "2025-01-03": 1440,
       "2025-01-02": 722,
       "2024-11-29": 553,
-      "2024-11-28": 310,
-      "2024-09-16": 22
+      "2024-11-28": 310
     }
   }
 ]
