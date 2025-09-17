@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.62%",
     "time": 744,
-    "timeDay": 715,
-    "timeWeek": 776,
+    "timeDay": 658,
+    "timeWeek": 762,
     "timeMonth": 773,
     "timeYear": 729,
     "dailyMinutesDown": {
@@ -36,8 +36,7 @@
       "2024-10-17": 1440,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
-      "2024-10-14": 209,
-      "2024-09-17": 154
+      "2024-10-14": 209
     }
   },
   {
@@ -52,9 +51,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.75%",
     "time": 908,
-    "timeDay": 951,
-    "timeWeek": 840,
-    "timeMonth": 809,
+    "timeDay": 734,
+    "timeWeek": 830,
+    "timeMonth": 810,
     "timeYear": 799,
     "dailyMinutesDown": {
       "2025-08-28": 18,
@@ -84,8 +83,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 750,
-    "timeDay": 432,
-    "timeWeek": 646,
+    "timeDay": 600,
+    "timeWeek": 639,
     "timeMonth": 662,
     "timeYear": 680,
     "dailyMinutesDown": {
@@ -98,7 +97,7 @@
     "icon": "https://htmltopdf.absor.top/media/common/logo/logo.png",
     "slug": "api-html-to-pdf",
     "status": "down",
-    "uptime": "62.11%",
+    "uptime": "62.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -109,7 +108,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-16": 58,
+      "2025-09-17": 57,
+      "2025-09-16": 1440,
       "2025-09-15": 1440,
       "2025-09-14": 1440,
       "2025-09-13": 1440,
@@ -472,8 +472,7 @@
       "2024-09-21": 1440,
       "2024-09-20": 1440,
       "2024-09-19": 1440,
-      "2024-09-18": 1440,
-      "2024-09-17": 1440
+      "2024-09-18": 1440
     }
   },
   {
@@ -487,11 +486,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.11%",
-    "time": 1063,
-    "timeDay": 617,
-    "timeWeek": 540,
-    "timeMonth": 590,
-    "timeYear": 900,
+    "time": 1062,
+    "timeDay": 576,
+    "timeWeek": 557,
+    "timeMonth": 589,
+    "timeYear": 902,
     "dailyMinutesDown": {
       "2025-03-04": 109,
       "2025-01-27": 24,
