@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.65%",
     "time": 744,
-    "timeDay": 705,
-    "timeWeek": 734,
-    "timeMonth": 766,
-    "timeYear": 728,
+    "timeDay": 840,
+    "timeWeek": 737,
+    "timeMonth": 771,
+    "timeYear": 729,
     "dailyMinutesDown": {
       "2025-08-08": 164,
       "2025-08-01": 358,
@@ -51,9 +51,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.75%",
     "time": 908,
-    "timeDay": 712,
-    "timeWeek": 797,
-    "timeMonth": 807,
+    "timeDay": 705,
+    "timeWeek": 779,
+    "timeMonth": 808,
     "timeYear": 799,
     "dailyMinutesDown": {
       "2025-08-28": 18,
@@ -83,10 +83,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 749,
-    "timeDay": 593,
-    "timeWeek": 605,
-    "timeMonth": 660,
-    "timeYear": 679,
+    "timeDay": 662,
+    "timeWeek": 594,
+    "timeMonth": 662,
+    "timeYear": 680,
     "dailyMinutesDown": {
       "2024-11-12": 19
     }
@@ -97,18 +97,19 @@
     "icon": "https://htmltopdf.absor.top/media/common/logo/logo.png",
     "slug": "api-html-to-pdf",
     "status": "down",
-    "uptime": "61.96%",
+    "uptime": "61.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 626,
+    "time": 625,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-19": 59,
+      "2025-09-20": 56,
+      "2025-09-19": 1440,
       "2025-09-18": 1440,
       "2025-09-17": 1440,
       "2025-09-16": 1440,
@@ -471,8 +472,7 @@
       "2024-09-24": 1440,
       "2024-09-23": 1440,
       "2024-09-22": 1440,
-      "2024-09-21": 1440,
-      "2024-09-20": 1440
+      "2024-09-21": 1440
     }
   },
   {
@@ -487,8 +487,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.11%",
     "time": 1061,
-    "timeDay": 370,
-    "timeWeek": 526,
+    "timeDay": 588,
+    "timeWeek": 538,
     "timeMonth": 577,
     "timeYear": 901,
     "dailyMinutesDown": {
