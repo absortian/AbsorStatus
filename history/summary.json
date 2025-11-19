@@ -8,13 +8,13 @@
     "uptime": "96.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "89.33%",
+    "uptimeMonth": "91.00%",
     "uptimeYear": "98.31%",
     "time": 739,
-    "timeDay": 711,
-    "timeWeek": 735,
-    "timeMonth": 773,
-    "timeYear": 738,
+    "timeDay": 682,
+    "timeWeek": 739,
+    "timeMonth": 770,
+    "timeYear": 737,
     "dailyMinutesDown": {
       "2025-11-07": 795,
       "2025-11-06": 1059,
@@ -34,8 +34,7 @@
       "2025-05-16": 30,
       "2025-05-13": 502,
       "2025-05-12": 80,
-      "2025-04-28": 676,
-      "2024-11-19": 23
+      "2025-04-28": 676
     }
   },
   {
@@ -50,9 +49,9 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.68%",
     "time": 896,
-    "timeDay": 655,
-    "timeWeek": 659,
-    "timeMonth": 725,
+    "timeDay": 730,
+    "timeWeek": 668,
+    "timeMonth": 722,
     "timeYear": 795,
     "dailyMinutesDown": {
       "2025-11-15": 19,
@@ -86,11 +85,11 @@
     "uptimeWeek": "99.45%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
-    "time": 681,
-    "timeDay": 499,
-    "timeWeek": 586,
-    "timeMonth": 631,
-    "timeYear": 684,
+    "time": 680,
+    "timeDay": 488,
+    "timeWeek": 582,
+    "timeMonth": 627,
+    "timeYear": 683,
     "dailyMinutesDown": {
       "2025-11-18": 55
     }
@@ -101,7 +100,7 @@
     "icon": "https://htmltopdf.absor.top/media/common/logo/logo.png",
     "slug": "api-html-to-pdf",
     "status": "down",
-    "uptime": "59.06%",
+    "uptime": "59.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -112,7 +111,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-18": 770,
+      "2025-11-19": 63,
+      "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -475,8 +475,7 @@
       "2024-11-23": 1440,
       "2024-11-22": 1440,
       "2024-11-21": 1440,
-      "2024-11-20": 1440,
-      "2024-11-19": 1440
+      "2024-11-20": 1440
     }
   },
   {
@@ -490,9 +489,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.11%",
-    "time": 850,
-    "timeDay": 757,
-    "timeWeek": 594,
+    "time": 851,
+    "timeDay": 729,
+    "timeWeek": 612,
     "timeMonth": 608,
     "timeYear": 906,
     "dailyMinutesDown": {
