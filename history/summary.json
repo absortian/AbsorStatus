@@ -11,9 +11,9 @@
     "uptimeMonth": "95.77%",
     "uptimeYear": "98.31%",
     "time": 740,
-    "timeDay": 626,
-    "timeWeek": 792,
-    "timeMonth": 758,
+    "timeDay": 874,
+    "timeWeek": 768,
+    "timeMonth": 759,
     "timeYear": 739,
     "dailyMinutesDown": {
       "2025-11-07": 795,
@@ -49,9 +49,9 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.68%",
     "time": 896,
-    "timeDay": 649,
-    "timeWeek": 716,
-    "timeMonth": 709,
+    "timeDay": 766,
+    "timeWeek": 721,
+    "timeMonth": 706,
     "timeYear": 794,
     "dailyMinutesDown": {
       "2025-11-15": 19,
@@ -85,11 +85,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
-    "time": 680,
-    "timeDay": 615,
-    "timeWeek": 643,
-    "timeMonth": 629,
-    "timeYear": 682,
+    "time": 678,
+    "timeDay": 400,
+    "timeWeek": 623,
+    "timeMonth": 625,
+    "timeYear": 681,
     "dailyMinutesDown": {
       "2025-11-18": 55
     }
@@ -100,7 +100,7 @@
     "icon": "https://htmltopdf.absor.top/media/common/logo/logo.png",
     "slug": "api-html-to-pdf",
     "status": "down",
-    "uptime": "58.71%",
+    "uptime": "58.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -111,7 +111,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-26": 63,
+      "2025-11-27": 62,
+      "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
@@ -474,8 +475,7 @@
       "2024-12-01": 1440,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
-      "2024-11-28": 1440,
-      "2024-11-27": 1440
+      "2024-11-28": 1440
     }
   },
   {
@@ -489,11 +489,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.11%",
-    "time": 846,
-    "timeDay": 614,
-    "timeWeek": 625,
-    "timeMonth": 605,
-    "timeYear": 908,
+    "time": 842,
+    "timeDay": 717,
+    "timeWeek": 653,
+    "timeMonth": 611,
+    "timeYear": 909,
     "dailyMinutesDown": {
       "2025-03-04": 109,
       "2025-01-27": 24,
