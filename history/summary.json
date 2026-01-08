@@ -5,16 +5,16 @@
     "icon": "https://eu2.contabostorage.com/68e1ac55689b4b99a9a2ccd407d95b2a:branding-absor/logos/logo_transparent_little_white.png",
     "slug": "absor-flix",
     "status": "up",
-    "uptime": "96.53%",
-    "uptimeDay": "37.29%",
+    "uptime": "96.54%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "91.04%",
     "uptimeMonth": "97.94%",
     "uptimeYear": "98.01%",
     "time": 749,
-    "timeDay": 688,
-    "timeWeek": 724,
-    "timeMonth": 896,
-    "timeYear": 758,
+    "timeDay": 846,
+    "timeWeek": 744,
+    "timeMonth": 821,
+    "timeYear": 759,
     "dailyMinutesDown": {
       "2026-01-06": 903,
       "2025-12-05": 599,
@@ -47,14 +47,14 @@
     "slug": "absor-tv",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "98.64%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.11%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.66%",
     "time": 851,
-    "timeDay": 666,
-    "timeWeek": 1275,
-    "timeMonth": 940,
+    "timeDay": 787,
+    "timeWeek": 1278,
+    "timeMonth": 943,
     "timeYear": 813,
     "dailyMinutesDown": {
       "2026-01-06": 20,
@@ -92,10 +92,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 673,
-    "timeDay": 639,
-    "timeWeek": 670,
-    "timeMonth": 678,
-    "timeYear": 688,
+    "timeDay": 717,
+    "timeWeek": 684,
+    "timeMonth": 681,
+    "timeYear": 689,
     "dailyMinutesDown": {
       "2025-11-18": 55
     }
@@ -106,18 +106,19 @@
     "icon": "https://htmltopdf.absor.top/media/common/logo/logo.png",
     "slug": "api-html-to-pdf",
     "status": "down",
-    "uptime": "56.88%",
+    "uptime": "56.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 585,
+    "time": 589,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 10,
+      "2026-01-08": 12,
+      "2026-01-07": 1440,
       "2026-01-06": 1440,
       "2026-01-05": 1440,
       "2026-01-04": 1440,
@@ -480,8 +481,7 @@
       "2025-01-12": 1440,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
-      "2025-01-09": 1440,
-      "2025-01-08": 1440
+      "2025-01-09": 1440
     }
   },
   {
@@ -494,16 +494,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.51%",
+    "uptimeYear": "99.78%",
     "time": 823,
-    "timeDay": 618,
-    "timeWeek": 620,
-    "timeMonth": 610,
-    "timeYear": 645,
+    "timeDay": 705,
+    "timeWeek": 661,
+    "timeMonth": 613,
+    "timeYear": 612,
     "dailyMinutesDown": {
       "2025-03-04": 109,
-      "2025-01-27": 24,
-      "2025-01-08": 1020
+      "2025-01-27": 24
     }
   }
 ]
