@@ -11,10 +11,10 @@
     "uptimeMonth": "97.94%",
     "uptimeYear": "98.01%",
     "time": 753,
-    "timeDay": 574,
-    "timeWeek": 825,
-    "timeMonth": 835,
-    "timeYear": 769,
+    "timeDay": 788,
+    "timeWeek": 822,
+    "timeMonth": 831,
+    "timeYear": 770,
     "dailyMinutesDown": {
       "2026-01-06": 903,
       "2025-12-05": 599,
@@ -51,10 +51,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.65%",
-    "time": 799,
-    "timeDay": 692,
-    "timeWeek": 647,
-    "timeMonth": 895,
+    "time": 797,
+    "timeDay": 761,
+    "timeWeek": 665,
+    "timeMonth": 894,
     "timeYear": 813,
     "dailyMinutesDown": {
       "2026-01-10": 48,
@@ -93,10 +93,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 675,
-    "timeDay": 603,
-    "timeWeek": 681,
+    "timeDay": 720,
+    "timeWeek": 687,
     "timeMonth": 684,
-    "timeYear": 694,
+    "timeYear": 695,
     "dailyMinutesDown": {
       "2025-11-18": 55
     }
@@ -107,7 +107,7 @@
     "icon": "https://htmltopdf.absor.top/media/common/logo/logo.png",
     "slug": "api-html-to-pdf",
     "status": "down",
-    "uptime": "56.29%",
+    "uptime": "56.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -118,7 +118,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-21": 12,
+      "2026-01-22": 12,
+      "2026-01-21": 1440,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
       "2026-01-18": 1440,
@@ -481,8 +482,7 @@
       "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
-      "2025-01-23": 1440,
-      "2025-01-22": 1440
+      "2025-01-23": 1440
     }
   },
   {
@@ -497,10 +497,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 825,
-    "timeDay": 605,
-    "timeWeek": 578,
-    "timeMonth": 613,
-    "timeYear": 612,
+    "timeDay": 547,
+    "timeWeek": 590,
+    "timeMonth": 606,
+    "timeYear": 613,
     "dailyMinutesDown": {
       "2025-03-04": 109,
       "2025-01-27": 24
