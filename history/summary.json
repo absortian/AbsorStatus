@@ -11,10 +11,10 @@
     "uptimeMonth": "97.94%",
     "uptimeYear": "98.01%",
     "time": 755,
-    "timeDay": 672,
-    "timeWeek": 927,
-    "timeMonth": 829,
-    "timeYear": 772,
+    "timeDay": 1191,
+    "timeWeek": 988,
+    "timeMonth": 826,
+    "timeYear": 774,
     "dailyMinutesDown": {
       "2026-01-06": 903,
       "2025-12-05": 599,
@@ -47,9 +47,9 @@
     "slug": "absor-tv",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "97.66%",
-    "uptimeWeek": "99.08%",
-    "uptimeMonth": "99.40%",
+    "uptimeDay": "98.32%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.42%",
     "uptimeYear": "99.63%",
     "time": 792,
     "timeDay": 740,
@@ -57,7 +57,7 @@
     "timeMonth": 836,
     "timeYear": 807,
     "dailyMinutesDown": {
-      "2026-01-24": 34,
+      "2026-01-24": 24,
       "2026-01-22": 60,
       "2026-01-10": 48,
       "2026-01-06": 20,
@@ -95,10 +95,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 675,
-    "timeDay": 709,
-    "timeWeek": 696,
-    "timeMonth": 683,
-    "timeYear": 696,
+    "timeDay": 674,
+    "timeWeek": 681,
+    "timeMonth": 682,
+    "timeYear": 697,
     "dailyMinutesDown": {
       "2025-11-18": 55
     }
@@ -120,7 +120,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-24": 1302,
+      "2026-01-25": 13,
+      "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
@@ -483,8 +484,7 @@
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
-      "2025-01-26": 1440,
-      "2025-01-25": 1440
+      "2025-01-26": 1440
     }
   },
   {
@@ -499,9 +499,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 825,
-    "timeDay": 629,
-    "timeWeek": 592,
-    "timeMonth": 616,
+    "timeDay": 457,
+    "timeWeek": 582,
+    "timeMonth": 608,
     "timeYear": 613,
     "dailyMinutesDown": {
       "2025-03-04": 109,
