@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.94%",
     "uptimeYear": "98.01%",
-    "time": 755,
-    "timeDay": 772,
-    "timeWeek": 936,
-    "timeMonth": 829,
+    "time": 756,
+    "timeDay": 708,
+    "timeWeek": 865,
+    "timeMonth": 831,
     "timeYear": 774,
     "dailyMinutesDown": {
       "2026-01-06": 903,
@@ -52,9 +52,9 @@
     "uptimeMonth": "99.39%",
     "uptimeYear": "99.63%",
     "time": 790,
-    "timeDay": 633,
-    "timeWeek": 676,
-    "timeMonth": 825,
+    "timeDay": 609,
+    "timeWeek": 675,
+    "timeMonth": 826,
     "timeYear": 805,
     "dailyMinutesDown": {
       "2026-01-26": 15,
@@ -95,10 +95,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 674,
-    "timeDay": 538,
-    "timeWeek": 666,
-    "timeMonth": 676,
+    "time": 675,
+    "timeDay": 688,
+    "timeWeek": 653,
+    "timeMonth": 679,
     "timeYear": 696,
     "dailyMinutesDown": {
       "2025-11-18": 55
@@ -110,7 +110,7 @@
     "icon": "https://htmltopdf.absor.top/media/common/logo/logo.png",
     "slug": "api-html-to-pdf",
     "status": "down",
-    "uptime": "56.06%",
+    "uptime": "56.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -121,7 +121,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-26": 948,
+      "2026-01-27": 12,
+      "2026-01-26": 1440,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
@@ -484,8 +485,7 @@
       "2025-01-31": 1440,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
-      "2025-01-28": 1440,
-      "2025-01-27": 1440
+      "2025-01-28": 1440
     }
   },
   {
@@ -500,13 +500,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 824,
-    "timeDay": 536,
-    "timeWeek": 567,
-    "timeMonth": 606,
-    "timeYear": 612,
+    "timeDay": 434,
+    "timeWeek": 548,
+    "timeMonth": 607,
+    "timeYear": 611,
     "dailyMinutesDown": {
-      "2025-03-04": 109,
-      "2025-01-27": 24
+      "2025-03-04": 109
     }
   }
 ]
