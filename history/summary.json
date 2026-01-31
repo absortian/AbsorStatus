@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.94%",
     "uptimeYear": "98.01%",
-    "time": 756,
-    "timeDay": 730,
-    "timeWeek": 855,
-    "timeMonth": 843,
+    "time": 757,
+    "timeDay": 824,
+    "timeWeek": 876,
+    "timeMonth": 832,
     "timeYear": 777,
     "dailyMinutesDown": {
       "2026-01-06": 903,
@@ -49,12 +49,12 @@
     "uptime": "99.57%",
     "uptimeDay": "98.35%",
     "uptimeWeek": "99.16%",
-    "uptimeMonth": "99.29%",
+    "uptimeMonth": "99.36%",
     "uptimeYear": "99.62%",
     "time": 790,
-    "timeDay": 841,
-    "timeWeek": 726,
-    "timeMonth": 825,
+    "timeDay": 767,
+    "timeWeek": 727,
+    "timeMonth": 831,
     "timeYear": 807,
     "dailyMinutesDown": {
       "2026-01-30": 24,
@@ -97,9 +97,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 676,
-    "timeDay": 698,
-    "timeWeek": 676,
-    "timeMonth": 679,
+    "timeDay": 715,
+    "timeWeek": 677,
+    "timeMonth": 682,
     "timeYear": 699,
     "dailyMinutesDown": {
       "2025-11-18": 55
@@ -111,7 +111,7 @@
     "icon": "https://htmltopdf.absor.top/media/common/logo/logo.png",
     "slug": "api-html-to-pdf",
     "status": "down",
-    "uptime": "55.91%",
+    "uptime": "55.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -122,7 +122,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-30": 358,
+      "2026-01-31": 14,
+      "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
       "2026-01-27": 1440,
@@ -485,8 +486,7 @@
       "2025-02-04": 1440,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
-      "2025-02-01": 1440,
-      "2025-01-31": 1440
+      "2025-02-01": 1440
     }
   },
   {
@@ -501,9 +501,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 825,
-    "timeDay": 625,
-    "timeWeek": 586,
-    "timeMonth": 614,
+    "timeDay": 558,
+    "timeWeek": 576,
+    "timeMonth": 610,
     "timeYear": 609,
     "dailyMinutesDown": {
       "2025-03-04": 109
