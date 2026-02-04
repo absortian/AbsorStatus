@@ -5,15 +5,15 @@
     "icon": "https://eu2.contabostorage.com/68e1ac55689b4b99a9a2ccd407d95b2a:branding-absor/logos/logo_transparent_little_white.png",
     "slug": "absor-flix",
     "status": "up",
-    "uptime": "96.62%",
+    "uptime": "96.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.94%",
     "uptimeYear": "98.01%",
     "time": 757,
-    "timeDay": 963,
-    "timeWeek": 921,
-    "timeMonth": 858,
+    "timeDay": 684,
+    "timeWeek": 854,
+    "timeMonth": 856,
     "timeYear": 781,
     "dailyMinutesDown": {
       "2026-01-06": 903,
@@ -52,8 +52,8 @@
     "uptimeMonth": "99.28%",
     "uptimeYear": "99.61%",
     "time": 787,
-    "timeDay": 637,
-    "timeWeek": 711,
+    "timeDay": 692,
+    "timeWeek": 714,
     "timeMonth": 813,
     "timeYear": 805,
     "dailyMinutesDown": {
@@ -99,8 +99,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 675,
-    "timeDay": 620,
-    "timeWeek": 643,
+    "timeDay": 663,
+    "timeWeek": 647,
     "timeMonth": 673,
     "timeYear": 699,
     "dailyMinutesDown": {
@@ -113,7 +113,7 @@
     "icon": "https://htmltopdf.absor.top/media/common/logo/logo.png",
     "slug": "api-html-to-pdf",
     "status": "down",
-    "uptime": "55.76%",
+    "uptime": "55.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -124,7 +124,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-03": 16,
+      "2026-02-04": 13,
+      "2026-02-03": 1440,
       "2026-02-02": 1440,
       "2026-02-01": 1440,
       "2026-01-31": 1440,
@@ -487,8 +488,7 @@
       "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
-      "2025-02-05": 1440,
-      "2025-02-04": 1440
+      "2025-02-05": 1440
     }
   },
   {
@@ -503,10 +503,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 825,
-    "timeDay": 595,
-    "timeWeek": 550,
+    "timeDay": 642,
+    "timeWeek": 551,
     "timeMonth": 595,
-    "timeYear": 608,
+    "timeYear": 609,
     "dailyMinutesDown": {
       "2025-03-04": 109
     }
