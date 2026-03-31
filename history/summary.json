@@ -5,15 +5,15 @@
     "icon": "https://eu2.contabostorage.com/68e1ac55689b4b99a9a2ccd407d95b2a:branding-absor/logos/logo_transparent_little_white.png",
     "slug": "absor-flix",
     "status": "up",
-    "uptime": "96.73%",
+    "uptime": "96.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.80%",
     "uptimeYear": "97.83%",
     "time": 751,
-    "timeDay": 849,
-    "timeWeek": 740,
-    "timeMonth": 719,
+    "timeDay": 657,
+    "timeWeek": 727,
+    "timeMonth": 717,
     "timeYear": 796,
     "dailyMinutesDown": {
       "2026-03-07": 713,
@@ -54,9 +54,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.37%",
     "time": 774,
-    "timeDay": 730,
-    "timeWeek": 658,
-    "timeMonth": 671,
+    "timeDay": 612,
+    "timeWeek": 637,
+    "timeMonth": 670,
     "timeYear": 754,
     "dailyMinutesDown": {
       "2026-02-28": 48,
@@ -117,9 +117,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.85%",
     "time": 709,
-    "timeDay": 400,
-    "timeWeek": 642,
-    "timeMonth": 1215,
+    "timeDay": 605,
+    "timeWeek": 627,
+    "timeMonth": 1199,
     "timeYear": 709,
     "dailyMinutesDown": {
       "2026-03-03": 20,
@@ -143,10 +143,10 @@
     "icon": "https://htmltopdf.absor.top/media/common/logo/logo.png",
     "slug": "api-html-to-pdf",
     "status": "down",
-    "uptime": "53.60%",
+    "uptime": "53.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -154,7 +154,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-30": 19,
+      "2026-03-31": 18,
+      "2026-03-30": 1440,
       "2026-03-29": 1440,
       "2026-03-28": 1440,
       "2026-03-27": 1440,
@@ -517,8 +518,7 @@
       "2025-04-04": 1440,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
-      "2025-04-01": 1440,
-      "2025-03-31": 1440
+      "2025-04-01": 1440
     }
   },
   {
@@ -533,10 +533,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 869,
-    "timeDay": 226,
-    "timeWeek": 565,
-    "timeMonth": 1193,
-    "timeYear": 663,
+    "timeDay": 663,
+    "timeWeek": 583,
+    "timeMonth": 1177,
+    "timeYear": 664,
     "dailyMinutesDown": {
       "2026-03-03": 19
     }
