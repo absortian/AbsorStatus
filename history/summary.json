@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.83%",
-    "time": 749,
-    "timeDay": 487,
-    "timeWeek": 571,
-    "timeMonth": 687,
+    "time": 748,
+    "timeDay": 498,
+    "timeWeek": 573,
+    "timeMonth": 681,
     "timeYear": 798,
     "dailyMinutesDown": {
       "2026-03-07": 713,
@@ -49,14 +49,14 @@
     "slug": "absor-tv",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "98.38%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.26%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.36%",
     "time": 769,
-    "timeDay": 508,
-    "timeWeek": 505,
-    "timeMonth": 618,
+    "timeDay": 470,
+    "timeWeek": 506,
+    "timeMonth": 612,
     "timeYear": 750,
     "dailyMinutesDown": {
       "2026-04-16": 23,
@@ -120,10 +120,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 710,
-    "timeDay": 448,
+    "timeDay": 434,
     "timeWeek": 559,
-    "timeMonth": 666,
-    "timeYear": 714,
+    "timeMonth": 657,
+    "timeYear": 713,
     "dailyMinutesDown": {
       "2026-03-03": 20,
       "2026-02-28": 27,
@@ -146,7 +146,7 @@
     "icon": "https://htmltopdf.absor.top/media/common/logo/logo.png",
     "slug": "api-html-to-pdf",
     "status": "down",
-    "uptime": "52.93%",
+    "uptime": "52.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -157,7 +157,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-17": 23,
+      "2026-04-18": 20,
+      "2026-04-17": 1440,
       "2026-04-16": 1440,
       "2026-04-15": 1440,
       "2026-04-14": 1440,
@@ -520,8 +521,7 @@
       "2025-04-22": 1440,
       "2025-04-21": 1440,
       "2025-04-20": 1440,
-      "2025-04-19": 1440,
-      "2025-04-18": 1440
+      "2025-04-19": 1440
     }
   },
   {
@@ -535,11 +535,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 817,
-    "timeDay": 437,
-    "timeWeek": 521,
-    "timeMonth": 583,
-    "timeYear": 663,
+    "time": 816,
+    "timeDay": 412,
+    "timeWeek": 517,
+    "timeMonth": 575,
+    "timeYear": 662,
     "dailyMinutesDown": {
       "2026-03-03": 19
     }
