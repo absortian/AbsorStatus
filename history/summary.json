@@ -11,9 +11,9 @@
     "uptimeMonth": "95.80%",
     "uptimeYear": "97.76%",
     "time": 753,
-    "timeDay": 782,
-    "timeWeek": 906,
-    "timeMonth": 774,
+    "timeDay": 558,
+    "timeWeek": 838,
+    "timeMonth": 779,
     "timeYear": 798,
     "dailyMinutesDown": {
       "2025-06-04": 193,
@@ -51,10 +51,10 @@
     "uptimeMonth": "99.07%",
     "uptimeYear": "99.29%",
     "time": 751,
-    "timeDay": 521,
-    "timeWeek": 567,
-    "timeMonth": 569,
-    "timeYear": 734,
+    "timeDay": 374,
+    "timeWeek": 543,
+    "timeMonth": 568,
+    "timeYear": 733,
     "dailyMinutesDown": {
       "2025-06-07": 643,
       "2025-06-06": 81,
@@ -123,10 +123,10 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.83%",
     "time": 697,
-    "timeDay": 535,
-    "timeWeek": 526,
-    "timeMonth": 496,
-    "timeYear": 702,
+    "timeDay": 390,
+    "timeWeek": 483,
+    "timeMonth": 495,
+    "timeYear": 701,
     "dailyMinutesDown": {
       "2025-11-18": 55,
       "2026-02-16": 26,
@@ -153,7 +153,7 @@
     "icon": "https://htmltopdf.absor.top/media/common/logo/logo.png",
     "slug": "api-html-to-pdf",
     "status": "down",
-    "uptime": "51.47%",
+    "uptime": "51.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -164,7 +164,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-28": 31,
+      "2026-05-29": 37,
+      "2026-05-28": 1440,
       "2026-05-27": 1440,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
@@ -527,8 +528,7 @@
       "2025-06-02": 1440,
       "2025-06-01": 1440,
       "2025-05-31": 1440,
-      "2025-05-30": 1440,
-      "2025-05-29": 1440
+      "2025-05-30": 1440
     }
   },
   {
@@ -543,10 +543,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 636,
-    "timeDay": 515,
-    "timeWeek": 493,
-    "timeMonth": 472,
-    "timeYear": 650,
+    "timeDay": 392,
+    "timeWeek": 481,
+    "timeMonth": 471,
+    "timeYear": 649,
     "dailyMinutesDown": {
       "2026-03-03": 19,
       "2026-04-21": 27
