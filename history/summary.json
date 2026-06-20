@@ -42,16 +42,16 @@
     "url": "https://tv.absor.top/health-check",
     "icon": "https://eu2.contabostorage.com/68e1ac55689b4b99a9a2ccd407d95b2a:branding-absor/logos/logo_transparent_little_white.png",
     "slug": "absor-tv",
-    "status": "down",
+    "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.43%",
-    "time": 777,
+    "uptimeDay": "97.20%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.42%",
+    "time": 776,
     "timeDay": 472,
-    "timeWeek": 1689,
-    "timeMonth": 1348,
+    "timeWeek": 1554,
+    "timeMonth": 1321,
     "timeYear": 766,
     "dailyMinutesDown": {
       "2025-08-03": 16,
@@ -105,7 +105,7 @@
       "2026-05-07": 24,
       "2026-05-12": 35,
       "2026-05-16": 25,
-      "2026-06-20": 1
+      "2026-06-20": 40
     }
   },
   {
@@ -161,7 +161,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-20": 961,
+      "2026-06-20": 1001,
       "2026-06-19": 1440,
       "2026-06-18": 1440,
       "2026-06-17": 1440,
