@@ -7,13 +7,13 @@
     "status": "up",
     "uptime": "96.76%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "92.09%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "93.95%",
     "uptimeYear": "97.36%",
     "time": 796,
-    "timeDay": 563,
-    "timeWeek": 805,
-    "timeMonth": 830,
+    "timeDay": 562,
+    "timeWeek": 838,
+    "timeMonth": 815,
     "timeYear": 780,
     "dailyMinutesDown": {
       "2025-08-01": 358,
@@ -51,9 +51,9 @@
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.40%",
     "time": 928,
-    "timeDay": 432,
-    "timeWeek": 519,
-    "timeMonth": 4191,
+    "timeDay": 445,
+    "timeWeek": 520,
+    "timeMonth": 4188,
     "timeYear": 959,
     "dailyMinutesDown": {
       "2025-08-03": 16,
@@ -124,9 +124,9 @@
     "uptimeMonth": "99.25%",
     "uptimeYear": "99.77%",
     "time": 693,
-    "timeDay": 379,
-    "timeWeek": 472,
-    "timeMonth": 929,
+    "timeDay": 405,
+    "timeWeek": 475,
+    "timeMonth": 922,
     "timeYear": 717,
     "dailyMinutesDown": {
       "2025-11-18": 55,
@@ -160,7 +160,7 @@
     "icon": "https://htmltopdf.absor.top/media/common/logo/logo.png",
     "slug": "api-html-to-pdf",
     "status": "down",
-    "uptime": "49.92%",
+    "uptime": "49.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -171,7 +171,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-13": 26,
+      "2026-07-14": 23,
+      "2026-07-13": 1440,
       "2026-07-12": 1440,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
@@ -534,8 +535,7 @@
       "2025-07-18": 1440,
       "2025-07-17": 1440,
       "2025-07-16": 1440,
-      "2025-07-15": 1440,
-      "2025-07-14": 1440
+      "2025-07-15": 1440
     }
   },
   {
@@ -550,10 +550,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 622,
-    "timeDay": 365,
-    "timeWeek": 497,
-    "timeMonth": 485,
-    "timeYear": 631,
+    "timeDay": 409,
+    "timeWeek": 501,
+    "timeMonth": 481,
+    "timeYear": 630,
     "dailyMinutesDown": {
       "2026-03-03": 19,
       "2026-04-21": 27
