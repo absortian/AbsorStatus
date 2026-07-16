@@ -117,17 +117,17 @@
     "url": "https://caja.absor.top",
     "icon": "https://caja.absor.top/media/common/logo/logo.png",
     "slug": "caja-registradora-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "96.36%",
+    "uptimeDay": "96.33%",
     "uptimeWeek": "99.24%",
     "uptimeMonth": "99.07%",
     "uptimeYear": "99.75%",
     "time": 691,
-    "timeDay": 461,
-    "timeWeek": 417,
-    "timeMonth": 884,
-    "timeYear": 714,
+    "timeDay": 435,
+    "timeWeek": 411,
+    "timeMonth": 873,
+    "timeYear": 713,
     "dailyMinutesDown": {
       "2025-11-18": 55,
       "2026-02-16": 26,
@@ -153,7 +153,8 @@
       "2026-06-28": 3,
       "2026-06-27": 24,
       "2026-07-14": 24,
-      "2026-07-15": 52
+      "2026-07-15": 52,
+      "2026-07-16": 1
     }
   },
   {
@@ -173,7 +174,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-16": 24,
+      "2026-07-16": 91,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
       "2026-07-13": 1440,
