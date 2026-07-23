@@ -4,17 +4,17 @@
     "url": "https://player.absor.top",
     "icon": "https://eu2.contabostorage.com/68e1ac55689b4b99a9a2ccd407d95b2a:branding-absor/logos/logo_transparent_little_white.png",
     "slug": "absor-flix",
-    "status": "down",
+    "status": "up",
     "uptime": "96.76%",
-    "uptimeDay": "73.17%",
-    "uptimeWeek": "96.17%",
-    "uptimeMonth": "93.07%",
-    "uptimeYear": "97.28%",
-    "time": 788,
-    "timeDay": 1838,
-    "timeWeek": 1522,
-    "timeMonth": 1051,
-    "timeYear": 805,
+    "uptimeDay": "69.46%",
+    "uptimeWeek": "95.64%",
+    "uptimeMonth": "92.94%",
+    "uptimeYear": "97.27%",
+    "time": 810,
+    "timeDay": 3052,
+    "timeWeek": 2325,
+    "timeMonth": 1367,
+    "timeYear": 837,
     "dailyMinutesDown": {
       "2025-08-01": 358,
       "2025-08-08": 164,
@@ -38,7 +38,7 @@
       "2026-07-06": 822,
       "2026-07-05": 549,
       "2026-07-22": 216,
-      "2026-07-23": 169
+      "2026-07-23": 223
     }
   },
   {
@@ -46,17 +46,17 @@
     "url": "https://tv.absor.top/health-check",
     "icon": "https://eu2.contabostorage.com/68e1ac55689b4b99a9a2ccd407d95b2a:branding-absor/logos/logo_transparent_little_white.png",
     "slug": "absor-tv",
-    "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.75%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.40%",
     "time": 927,
-    "timeDay": 585,
-    "timeWeek": 622,
-    "timeMonth": 2518,
-    "timeYear": 955,
+    "timeDay": 527,
+    "timeWeek": 600,
+    "timeMonth": 2454,
+    "timeYear": 954,
     "dailyMinutesDown": {
       "2025-08-03": 16,
       "2025-08-13": 77,
@@ -111,7 +111,8 @@
       "2026-05-16": 25,
       "2026-06-20": 40,
       "2026-06-22": 28,
-      "2026-06-23": 38
+      "2026-06-23": 38,
+      "2026-07-23": 0
     }
   },
   {
@@ -178,7 +179,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-23": 547,
+      "2026-07-23": 601,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
