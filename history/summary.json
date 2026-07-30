@@ -4,15 +4,15 @@
     "url": "https://player.absor.top",
     "icon": "https://eu2.contabostorage.com/68e1ac55689b4b99a9a2ccd407d95b2a:branding-absor/logos/logo_transparent_little_white.png",
     "slug": "absor-flix",
-    "status": "up",
+    "status": "down",
     "uptime": "97.21%",
-    "uptimeDay": "85.75%",
-    "uptimeWeek": "71.19%",
+    "uptimeDay": "90.87%",
+    "uptimeWeek": "71.87%",
     "uptimeMonth": "86.80%",
     "uptimeYear": "96.76%",
-    "time": 965,
-    "timeDay": 4193,
-    "timeWeek": 2562,
+    "time": 966,
+    "timeDay": 5859,
+    "timeWeek": 2597,
     "timeMonth": 2119,
     "timeYear": 1046,
     "dailyMinutesDown": {
@@ -44,7 +44,8 @@
       "2026-07-26": 324,
       "2026-07-27": 363,
       "2026-07-28": 522,
-      "2026-07-29": 228
+      "2026-07-29": 228,
+      "2026-07-30": 0
     }
   },
   {
@@ -185,7 +186,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-30": 24,
+      "2026-07-30": 142,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
