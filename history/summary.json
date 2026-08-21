@@ -51,16 +51,16 @@
     "url": "https://tv.absor.top/health-check",
     "icon": "https://eu2.contabostorage.com/68e1ac55689b4b99a9a2ccd407d95b2a:branding-absor/logos/logo_transparent_little_white.png",
     "slug": "absor-tv",
-    "status": "down",
-    "uptime": "99.41%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "85.17%",
-    "uptimeYear": "98.19%",
+    "status": "up",
+    "uptime": "99.40%",
+    "uptimeDay": "95.10%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "85.01%",
+    "uptimeYear": "98.18%",
     "time": 913,
-    "timeDay": 512,
-    "timeWeek": 542,
-    "timeMonth": 911,
+    "timeDay": 608,
+    "timeWeek": 562,
+    "timeMonth": 904,
     "timeYear": 963,
     "dailyMinutesDown": {
       "2025-08-28": 18,
@@ -120,7 +120,7 @@
       "2026-08-03": 1440,
       "2026-08-02": 1440,
       "2026-08-01": 969,
-      "2026-08-21": 1
+      "2026-08-21": 71
     }
   },
   {
@@ -128,17 +128,17 @@
     "url": "https://caja.absor.top",
     "icon": "https://caja.absor.top/media/common/logo/logo.png",
     "slug": "caja-registradora-app",
-    "status": "down",
+    "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "98.69%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.72%",
+    "uptimeDay": "93.85%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.70%",
     "time": 687,
-    "timeDay": 557,
-    "timeWeek": 539,
-    "timeMonth": 538,
-    "timeYear": 697,
+    "timeDay": 533,
+    "timeWeek": 530,
+    "timeMonth": 535,
+    "timeYear": 696,
     "dailyMinutesDown": {
       "2025-11-18": 55,
       "2026-02-16": 26,
@@ -169,7 +169,7 @@
       "2026-07-17": 23,
       "2026-07-18": 88,
       "2026-08-20": 18,
-      "2026-08-21": 1
+      "2026-08-21": 70
     }
   },
   {
@@ -189,7 +189,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-21": 810,
+      "2026-08-21": 880,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
