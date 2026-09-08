@@ -178,7 +178,7 @@
     "icon": "https://htmltopdf.absor.top/media/common/logo/logo.png",
     "slug": "api-html-to-pdf",
     "status": "down",
-    "uptime": "48.13%",
+    "uptime": "48.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -189,7 +189,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-08": 16,
+      "2026-09-08": 811,
       "2026-09-07": 1440,
       "2026-09-06": 1440,
       "2026-09-05": 1440,
@@ -561,9 +561,9 @@
     "url": "https://deploy.absor.top/login?from=%2F",
     "icon": "https://deploy.absor.top/static/3cd36ed7/favicon.ico",
     "slug": "deploy-jenkins",
-    "status": "up",
+    "status": "down",
     "uptime": "99.05%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -574,7 +574,8 @@
     "timeYear": 602,
     "dailyMinutesDown": {
       "2026-03-03": 19,
-      "2026-04-21": 27
+      "2026-04-21": 27,
+      "2026-09-08": 0
     }
   }
 ]
