@@ -130,17 +130,17 @@
     "url": "https://caja.absor.top",
     "icon": "https://caja.absor.top/media/common/logo/logo.png",
     "slug": "caja-registradora-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.70%",
-    "time": 685,
-    "timeDay": 383,
-    "timeWeek": 541,
-    "timeMonth": 537,
-    "timeYear": 688,
+    "time": 684,
+    "timeDay": 392,
+    "timeWeek": 523,
+    "timeMonth": 533,
+    "timeYear": 687,
     "dailyMinutesDown": {
       "2025-11-18": 55,
       "2026-02-16": 26,
@@ -171,7 +171,8 @@
       "2026-07-17": 23,
       "2026-07-18": 88,
       "2026-08-20": 18,
-      "2026-08-21": 70
+      "2026-08-21": 70,
+      "2026-09-19": 1
     }
   },
   {
@@ -180,7 +181,7 @@
     "icon": "https://htmltopdf.absor.top/media/common/logo/logo.png",
     "slug": "api-html-to-pdf",
     "status": "down",
-    "uptime": "47.79%",
+    "uptime": "47.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -191,7 +192,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-19": 15,
+      "2026-09-19": 819,
       "2026-09-18": 1440,
       "2026-09-17": 1440,
       "2026-09-16": 1440,
