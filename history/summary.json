@@ -13,7 +13,7 @@
     "time": 1001,
     "timeDay": 854,
     "timeWeek": 905,
-    "timeMonth": 912,
+    "timeMonth": 922,
     "timeYear": 1063,
     "dailyMinutesDown": {
       "2025-10-07": 1041,
@@ -56,16 +56,16 @@
     "url": "https://tv.absor.top/health-check",
     "icon": "https://eu2.contabostorage.com/68e1ac55689b4b99a9a2ccd407d95b2a:branding-absor/logos/logo_transparent_little_white.png",
     "slug": "absor-tv",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.18%",
     "time": 916,
     "timeDay": 544,
     "timeWeek": 538,
-    "timeMonth": 849,
+    "timeMonth": 863,
     "timeYear": 964,
     "dailyMinutesDown": {
       "2025-10-05": 562,
@@ -124,7 +124,8 @@
       "2026-08-03": 1440,
       "2026-08-02": 1440,
       "2026-08-01": 969,
-      "2026-08-21": 71
+      "2026-08-21": 71,
+      "2026-09-28": 1
     }
   },
   {
@@ -141,7 +142,7 @@
     "time": 683,
     "timeDay": 533,
     "timeWeek": 513,
-    "timeMonth": 503,
+    "timeMonth": 506,
     "timeYear": 682,
     "dailyMinutesDown": {
       "2025-11-18": 55,
@@ -182,7 +183,7 @@
     "icon": "https://htmltopdf.absor.top/media/common/logo/logo.png",
     "slug": "api-html-to-pdf",
     "status": "down",
-    "uptime": "47.53%",
+    "uptime": "47.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -193,7 +194,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-28": 18,
+      "2026-09-28": 1149,
       "2026-09-27": 1440,
       "2026-09-26": 1440,
       "2026-09-25": 1440,
@@ -574,7 +575,7 @@
     "time": 609,
     "timeDay": 422,
     "timeWeek": 487,
-    "timeMonth": 502,
+    "timeMonth": 506,
     "timeYear": 602,
     "dailyMinutesDown": {
       "2026-03-03": 19,
