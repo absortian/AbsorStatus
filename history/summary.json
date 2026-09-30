@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "97.65%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "90.40%",
+    "uptimeWeek": "98.21%",
     "uptimeMonth": "93.99%",
     "uptimeYear": "96.32%",
     "time": 1002,
@@ -56,10 +56,10 @@
     "url": "https://tv.absor.top/health-check",
     "icon": "https://eu2.contabostorage.com/68e1ac55689b4b99a9a2ccd407d95b2a:branding-absor/logos/logo_transparent_little_white.png",
     "slug": "absor-tv",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.18%",
     "time": 915,
@@ -124,7 +124,8 @@
       "2026-08-03": 1440,
       "2026-08-02": 1440,
       "2026-08-01": 969,
-      "2026-08-21": 71
+      "2026-08-21": 71,
+      "2026-09-30": 1
     }
   },
   {
@@ -182,7 +183,7 @@
     "icon": "https://htmltopdf.absor.top/media/common/logo/logo.png",
     "slug": "api-html-to-pdf",
     "status": "down",
-    "uptime": "47.47%",
+    "uptime": "47.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -193,7 +194,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-30": 17,
+      "2026-09-30": 805,
       "2026-09-29": 1440,
       "2026-09-28": 1440,
       "2026-09-27": 1440,
