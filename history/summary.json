@@ -53,17 +53,17 @@
     "url": "https://tv.absor.top/health-check",
     "icon": "https://eu2.contabostorage.com/68e1ac55689b4b99a9a2ccd407d95b2a:branding-absor/logos/logo_transparent_little_white.png",
     "slug": "absor-tv",
-    "status": "down",
+    "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "98.18%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "89.38%",
+    "uptimeDay": "96.81%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "89.34%",
     "uptimeYear": "97.41%",
     "time": 916,
-    "timeDay": 1435,
-    "timeWeek": 810,
-    "timeMonth": 615,
-    "timeYear": 960,
+    "timeDay": 1247,
+    "timeWeek": 786,
+    "timeMonth": 612,
+    "timeYear": 959,
     "dailyMinutesDown": {
       "2025-10-22": 17,
       "2025-10-27": 20,
@@ -124,7 +124,7 @@
       "2026-10-01": 1440,
       "2026-09-30": 636,
       "2026-10-13": 31,
-      "2026-10-18": 27
+      "2026-10-18": 46
     }
   },
   {
@@ -134,9 +134,9 @@
     "slug": "caja-registradora-app",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "97.69%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.70%",
     "time": 715,
     "timeDay": 4371,
@@ -174,7 +174,7 @@
       "2026-07-18": 88,
       "2026-08-20": 18,
       "2026-08-21": 70,
-      "2026-10-18": 33
+      "2026-10-18": 25
     }
   },
   {
@@ -194,7 +194,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-18": 959,
+      "2026-10-18": 979,
       "2026-10-17": 1440,
       "2026-10-16": 1440,
       "2026-10-15": 1440,
@@ -568,9 +568,9 @@
     "slug": "deploy-jenkins",
     "status": "up",
     "uptime": "99.08%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 648,
     "timeDay": 6866,
@@ -580,8 +580,7 @@
     "dailyMinutesDown": {
       "2026-03-03": 19,
       "2026-04-21": 27,
-      "2026-09-08": 22,
-      "2026-10-18": 7
+      "2026-09-08": 22
     }
   }
 ]
