@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.47%",
-    "uptimeYear": "96.62%",
+    "uptimeYear": "96.68%",
     "time": 997,
     "timeDay": 710,
     "timeWeek": 825,
@@ -132,17 +132,17 @@
     "url": "https://caja.absor.top",
     "icon": "https://caja.absor.top/media/common/logo/logo.png",
     "slug": "caja-registradora-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "98.24%",
-    "uptimeWeek": "99.75%",
+    "uptimeDay": "98.11%",
+    "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.70%",
-    "time": 683,
-    "timeDay": 523,
-    "timeWeek": 575,
-    "timeMonth": 569,
-    "timeYear": 682,
+    "time": 715,
+    "timeDay": 5318,
+    "timeWeek": 2487,
+    "timeMonth": 1116,
+    "timeYear": 723,
     "dailyMinutesDown": {
       "2025-11-18": 55,
       "2026-02-16": 26,
@@ -174,7 +174,7 @@
       "2026-07-18": 88,
       "2026-08-20": 18,
       "2026-08-21": 70,
-      "2026-10-18": 25
+      "2026-10-18": 27
     }
   },
   {
@@ -183,7 +183,7 @@
     "icon": "https://htmltopdf.absor.top/media/common/logo/logo.png",
     "slug": "api-html-to-pdf",
     "status": "down",
-    "uptime": "46.93%",
+    "uptime": "46.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -194,7 +194,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-18": 494,
+      "2026-10-18": 952,
       "2026-10-17": 1440,
       "2026-10-16": 1440,
       "2026-10-15": 1440,
@@ -566,21 +566,22 @@
     "url": "https://deploy.absor.top/login?from=%2F",
     "icon": "https://deploy.absor.top/static/3cd36ed7/favicon.ico",
     "slug": "deploy-jenkins",
-    "status": "up",
+    "status": "down",
     "uptime": "99.08%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 611,
-    "timeDay": 442,
-    "timeWeek": 548,
-    "timeMonth": 554,
-    "timeYear": 604,
+    "time": 648,
+    "timeDay": 10009,
+    "timeWeek": 2927,
+    "timeMonth": 1167,
+    "timeYear": 655,
     "dailyMinutesDown": {
       "2026-03-03": 19,
       "2026-04-21": 27,
-      "2026-09-08": 22
+      "2026-09-08": 22,
+      "2026-10-18": 0
     }
   }
 ]
