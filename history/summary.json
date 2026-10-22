@@ -192,7 +192,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-22": 1255,
+      "2026-10-22": 1273,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
@@ -564,23 +564,23 @@
     "url": "https://deploy.absor.top/login?from=%2F",
     "icon": "https://deploy.absor.top/static/3cd36ed7/favicon.ico",
     "slug": "deploy-jenkins",
-    "status": "down",
+    "status": "up",
     "uptime": "99.08%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
     "time": 654,
-    "timeDay": 1913,
-    "timeWeek": 2572,
-    "timeMonth": 1230,
-    "timeYear": 663,
+    "timeDay": 1471,
+    "timeWeek": 2406,
+    "timeMonth": 1212,
+    "timeYear": 662,
     "dailyMinutesDown": {
       "2026-03-03": 19,
       "2026-04-21": 27,
       "2026-09-08": 22,
       "2026-10-18": 17,
-      "2026-10-22": 0
+      "2026-10-22": 17
     }
   }
 ]
