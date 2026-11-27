@@ -53,17 +53,17 @@
     "url": "https://tv.absor.top/health-check",
     "icon": "https://eu2.contabostorage.com/68e1ac55689b4b99a9a2ccd407d95b2a:branding-absor/logos/logo_transparent_little_white.png",
     "slug": "absor-tv",
-    "status": "up",
+    "status": "down",
     "uptime": "99.21%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.42%",
     "time": 918,
-    "timeDay": 678,
-    "timeWeek": 554,
-    "timeMonth": 504,
-    "timeYear": 948,
+    "timeDay": 621,
+    "timeWeek": 555,
+    "timeMonth": 506,
+    "timeYear": 947,
     "dailyMinutesDown": {
       "2025-12-30": 31,
       "2026-01-01": 18,
@@ -121,7 +121,8 @@
       "2026-09-30": 636,
       "2026-10-13": 31,
       "2026-10-18": 46,
-      "2026-10-21": 21
+      "2026-10-21": 21,
+      "2026-11-27": 1
     }
   },
   {
@@ -179,7 +180,7 @@
     "icon": "https://htmltopdf.absor.top/media/common/logo/logo.png",
     "slug": "api-html-to-pdf",
     "status": "down",
-    "uptime": "45.81%",
+    "uptime": "45.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -190,7 +191,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-27": 9,
+      "2026-11-27": 616,
       "2026-11-26": 1440,
       "2026-11-25": 1440,
       "2026-11-24": 1440,
